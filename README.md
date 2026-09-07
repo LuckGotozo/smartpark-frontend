@@ -100,7 +100,7 @@ Permite:
 
 Visão geral do sistema com informações sobre veículos, estacionamentos, vagas e reservas.
 
-![Dashboard do SmartPark](screenshots/dashboard.png)
+![Dashboard do SmartPark](https://github.com/LuckGotozo/smartpark-frontend/blob/main/screenshots/Dashboard.png)
 
 ### 🅿️ Vagas
 
