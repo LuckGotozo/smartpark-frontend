@@ -112,7 +112,7 @@ Visualização das vagas cadastradas e seus respectivos status.
 
 Gerenciamento das reservas realizadas pelo usuário.
 
-![Reservas do SmartPark](screenshots/reservas.png)
+![Reservas do SmartPark](https://github.com/LuckGotozo/smartpark-frontend/blob/main/screenshots/Reservas.png)
 
 ---
 ## ⚙️ Como executar
