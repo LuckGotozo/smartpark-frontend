@@ -94,7 +94,27 @@ Permite:
 - cancelar reservas.
 
 ---
+## 📸 Screenshots
 
+### 📊 Dashboard
+
+Visão geral do sistema com informações sobre veículos, estacionamentos, vagas e reservas.
+
+![Dashboard do SmartPark](screenshots/dashboard.png)
+
+### 🅿️ Vagas
+
+Visualização das vagas cadastradas e seus respectivos status.
+
+![Vagas do SmartPark](screenshots/vagas.png)
+
+### 📅 Reservas
+
+Gerenciamento das reservas realizadas pelo usuário.
+
+![Reservas do SmartPark](screenshots/reservas.png)
+
+---
 ## ⚙️ Como executar
 
 ### Pré-requisitos
