@@ -106,7 +106,7 @@ Visão geral do sistema com informações sobre veículos, estacionamentos, vaga
 
 Visualização das vagas cadastradas e seus respectivos status.
 
-![Vagas do SmartPark](screenshots/vagas.png)
+![Vagas do SmartPark](https://github.com/LuckGotozo/smartpark-frontend/blob/main/screenshots/Vagas.png)
 
 ### 📅 Reservas
 
